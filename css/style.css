@@ -3101,3 +3101,8 @@ body.students a{color:#60BDDB} /*Causing the social icons to be blue*/
     margin-bottom: 100px;
     text-align: center;
 }
+
+
+#biography {
+    overflow: auto;
+}
