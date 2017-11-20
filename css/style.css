@@ -2903,7 +2903,7 @@ input.hs-button.primary.large{
 
 
 .page-title, .top-page-title {
-  /*background: url(../img/plaza_espana.jpg) no-repeat top center;*/
+  background: url(../img/plaza_espana.jpg) no-repeat top center;
   margin-bottom: 0;
   padding: 0;
   height: 275px;
@@ -3094,4 +3094,10 @@ body.students a{color:#60BDDB} /*Causing the social icons to be blue*/
 
 .smooth-scroller {
     padding-top: 20px;
+}
+#lindsay {
+    background: url(../img/students/Lindsay_Cambodia.JPG) no-repeat top center;
+    background-size: 100% 100%;
+    margin-bottom: 100px;
+    text-align: center;
 }
